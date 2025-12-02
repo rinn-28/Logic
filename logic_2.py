@@ -116,6 +116,8 @@ for y in crange(1,9):
             printnln("_")
     print()
 
+#SOAL 8
+
 for  y in crange(1,9):
     for x in crange(1,9):
         if x == y:
